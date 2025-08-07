@@ -188,7 +188,7 @@ function App() {
         transition={{ delay: 1 }}
       >
         <p style={{ fontFamily: "monospace" }}>
-          Made with ❤️ by Yashas C Raju (@thebinarybot)
+          Made with ❤️ by Yashas C Raju
         </p>
       </motion.footer>
     </motion.div>
